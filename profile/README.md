@@ -8,7 +8,7 @@ This project is developed with an accessibility-first perspective. There is no a
 
 **Who created Able Player?**
 
-Able Player was created by Terrill Thompson. Terrill created the player between 2010 and 2014, and maintained it until May 2025, when he passed the torch to Joe Dolson, the current lead developer. 
+Able Player was created by Terrill Thompson. Terrill created the player between 2010 and 2014, and maintained it until May 2025, when he passed the torch to [Joe Dolson](https://www.joedolson.com), the current lead developer. 
 
 **How can I help?**
 
